@@ -6,3 +6,5 @@
 
 <img src="twillio_wpp.png">
 
+<p> Mensagem sendo enviada por SMS </p>
+<img src="sms.png">
